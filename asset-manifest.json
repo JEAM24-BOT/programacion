@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/programacion/static/css/main.f855e6bc.css",
-    "main.js": "/programacion/static/js/main.e4218dbf.js",
-    "static/js/453.47ff4b1d.chunk.js": "/programacion/static/js/453.47ff4b1d.chunk.js",
-    "index.html": "/programacion/index.html",
-    "main.f855e6bc.css.map": "/programacion/static/css/main.f855e6bc.css.map",
-    "main.e4218dbf.js.map": "/programacion/static/js/main.e4218dbf.js.map",
-    "453.47ff4b1d.chunk.js.map": "/programacion/static/js/453.47ff4b1d.chunk.js.map"
+    "main.css": "/JEAM24-BOT/programacion/static/css/main.f855e6bc.css",
+    "main.js": "/JEAM24-BOT/programacion/static/js/main.2d2668e4.js",
+    "static/js/453.47ff4b1d.chunk.js": "/JEAM24-BOT/programacion/static/js/453.47ff4b1d.chunk.js",
+    "index.html": "/JEAM24-BOT/programacion/index.html",
+    "main.f855e6bc.css.map": "/JEAM24-BOT/programacion/static/css/main.f855e6bc.css.map",
+    "main.2d2668e4.js.map": "/JEAM24-BOT/programacion/static/js/main.2d2668e4.js.map",
+    "453.47ff4b1d.chunk.js.map": "/JEAM24-BOT/programacion/static/js/453.47ff4b1d.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f855e6bc.css",
-    "static/js/main.e4218dbf.js"
+    "static/js/main.2d2668e4.js"
   ]
 }
